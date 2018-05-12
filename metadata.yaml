@@ -1,0 +1,47 @@
+_repo: Do-a-Clarines-y-Ma-ana-de-Sol_16109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Álvarez Quintero, Serafín
+    aliases:
+    - Quintero, Serafin Alvarez
+    - Quintero, Serafín Álvarez
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '6938'
+    url: http://www.gutenberg.org/2009/agents/6938
+  - agent_name: Álvarez Quintero, Joaquín
+    aliases:
+    - Quintero, Joaquin Alvarez
+    - Quintero, Joaquín Álvarez
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '6939'
+    url: http://www.gutenberg.org/2009/agents/6939
+  editor:
+    agent_name: Morley, S. Griswold (Sylvanus Griswold)
+    alias: Morley, Sylvanus Griswold
+    birthdate: 1878
+    deathdate: 1970
+    gutenberg_agent_id: '6468'
+    url: http://www.gutenberg.org/2009/agents/6468
+description: ''
+gutenberg_issued: '2005-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16109'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+- !lcsh 'Comedies'
+title: Doña Clarines y Mañana de Sol
+url: http://www.gutenberg.org/ebooks/16109
